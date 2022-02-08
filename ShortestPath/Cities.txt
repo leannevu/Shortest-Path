@@ -1,0 +1,12 @@
+Seattle
+San Francisco
+Los Angeles
+Denver
+Kansas City
+Chicago
+Boston
+New York
+Atlanta
+Miami
+Dallas
+Houston

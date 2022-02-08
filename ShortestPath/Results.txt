@@ -1,0 +1,9 @@
+Current City: Seattle, State: Washington, Population: 724,305, Area in Square Miles: 83.78, Area Code: 206
+
+Destination City: Kansas City, State: Missouri, Population: 486,404, Area in Square Miles: 319.0, Area Code: 816
+
+The number of vertices is 12
+
+The shortest path from Seattle to Kansas City is: (0) Seattle -> (3) Denver -> (4) Kansas City
+
+Shortest path distance (weight): 1930.0 miles

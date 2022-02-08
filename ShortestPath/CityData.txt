@@ -1,0 +1,12 @@
+Seattle|Washington|724,305|83.78|206
+San Francisco|California|874,961|46.87|415
+Los Angeles|California|3,996,000|503|213
+Denver|Colorado|705,576|154.9|720
+Kansas City|Missouri|486,404|319|816
+Chicago|Illinois|2,722,586|234|773
+Boston|Massachusetts|684,379|89.63|617
+New York|New York|8,419,000|306|718
+Atlanta|Georgia|488,800|136.8|770
+Miami|Florida|454,279|55.25|786
+Dallas|Texas|1,331,000|383.4|214
+Houston|Texas|2,310,000|383.4|281
